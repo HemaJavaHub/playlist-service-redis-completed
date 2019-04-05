@@ -1,5 +1,6 @@
-package com.musicplayer.playlistservice.models;
+package com.musicplayer.playlistservice.services;
 
+import com.musicplayer.playlistservice.models.Song;
 import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

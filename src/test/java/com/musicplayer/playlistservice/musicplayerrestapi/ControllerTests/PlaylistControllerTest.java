@@ -2,7 +2,7 @@ package com.musicplayer.playlistservice.musicplayerrestapi.ControllerTests;
 
 
 import com.musicplayer.playlistservice.PlaylistNotFoundException;
-import com.musicplayer.playlistservice.models.SongServiceProxy;
+import com.musicplayer.playlistservice.services.SongServiceProxy;
 import com.musicplayer.playlistservice.musicplayerrestapi.TestUtils.TestPlaylist;
 import com.musicplayer.playlistservice.controllers.PlaylistController;
 import com.musicplayer.playlistservice.models.Playlist;
